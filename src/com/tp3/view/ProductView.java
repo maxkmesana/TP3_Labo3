@@ -1,9 +1,8 @@
 package com.tp3.view;
 
-import com.tp3.model.entities.CategoryEntity;
 import com.tp3.model.entities.ProductEntity;
 
-import java.util.ArrayList;
+
 import java.util.Scanner;
 
 public class ProductView {
